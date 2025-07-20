@@ -1,0 +1,3 @@
+[submodule "AI_Server/opencv/opencv"]
+	path = AI_Server/opencv/opencv
+	url = https://github.com/opencv/opencv.git
